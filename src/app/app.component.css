@@ -1,0 +1,5 @@
+:host ::ng-deep .p-chart {
+  width: 100%;
+  max-width: 650px;
+  margin: 0 auto;
+}
